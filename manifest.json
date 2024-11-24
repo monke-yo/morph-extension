@@ -1,0 +1,18 @@
+{
+  "manifest_version": 2,
+  "name": "Morph",
+  "version": "1.0",
+
+  "description": "Introduces new cool features to the browser",
+
+  "icons": {
+    "48": "icons/border-48.png"
+  },
+
+  "content_scripts": [
+    {
+      "matches": ["*://*/*"],
+      "js": ["morph.js"]
+    }
+  ]
+}
