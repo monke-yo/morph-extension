@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "Keyboard Sound Extension",
+  "name": "Morph",
   "version": "1.0",
-  "description": "Add cool keyboard sound effects while typing in the browser.",
+  "description": "Adds cool features to your browser.",
   "permissions": ["storage"],
   "host_permissions": ["<all_urls>"],
   "background": {
