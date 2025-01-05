@@ -2,6 +2,6 @@
 
 Adds cool features to your browser
 
-#Current Features:
+# Current Features:
 
 - Keyboard sound effects
